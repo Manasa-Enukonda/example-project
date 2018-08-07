@@ -1,6 +1,7 @@
 typescript
 java
 kotlin
+python
 scala
 ruby
 javascript
